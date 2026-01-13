@@ -1,0 +1,7 @@
+{
+  "name": "V.K Computer Institute Portal",
+  "description": "A comprehensive education management system and verification portal for V.K Computer Institute, featuring course management, student records, and secure certificate verification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
