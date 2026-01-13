@@ -32,7 +32,7 @@ const initialContent: SiteContent = {
   aboutUs: "V.K Computer Institute is a premier education center established to provide high-quality IT education.",
   directorMessage: "At V.K Computer Institute, our mission is to bridge the digital divide by providing affordable, high-quality computer education to students from all walks of life.",
   directorName: "Vishal Kumar",
-  directorPhoto: "pages/photo_2026-01-12_08-20-26.jpg"
+  directorPhoto: "https://api.dicebear.com/7.x/avataaars/svg?seed=Vishal"
 };
 
 class DBService {
